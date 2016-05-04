@@ -7,11 +7,23 @@
 using namespace std;
 
 /*
- * 1. Make the program test for palindromes (words/phrases that are the
- *    same written forward and backward, like "noon" or "a toyotas a toyota").
- * 2. Bonus: can you find a latent bug in VowelHeavy::matches_def?
- * 3. Bonus: can you find a latent bug in FirstConsonant::matches_def?
- * 4. Bonus: can you find a bug with security ramifications in main()?
+ * INSTRUCTIONS
+ *
+ * This module builds a simple cmdline program that tells whether words/phrases
+ * match certain criteria. It uses C++11 constructs, but nothing overly
+ * mysterious; reasonable familiarity with STL will probably be enough to
+ * make you comfortable. You will be extending and debugging the program.
+ *
+ * 1. Read and understand the basics of the program. Don't worry too much
+ *    about style; focus on what work gets done, and how.
+ * 2. Extend the program so it can test for palindromes (words/phrases that are
+ *    the same written forward and backward, like "noon" or "a toyotas a toyota").
+ * 3. Bonus: can you find a latent bug in VowelHeavy::matches_def?
+ * 4. Bonus: can you find a latent bug in FirstConsonant::matches_def?
+ * 5. Bonus: can you find a bug with security ramifications in main()?
+ * 6. Come up with a list of unit tests for specializations of Test. Think of
+ *    ones that would catch the bugs you've found, as well as others that might
+ *    be useful.
 */
 
 
