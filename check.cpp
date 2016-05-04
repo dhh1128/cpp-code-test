@@ -23,7 +23,7 @@ using namespace std;
  * 5. Bonus: can you find a bug with security ramifications in main()?
  * 6. Come up with a list of unit tests for specializations of Test. Think of
  *    ones that would catch the bugs you've found, as well as others that might
- *    be useful.
+ *    be useful. You don't have to code the tests, just describe them.
 */
 
 
