@@ -21,7 +21,10 @@ using namespace std;
  * 3. Bonus: can you find a latent bug in VowelHeavy::matches_def?
  * 4. Bonus: can you find a latent bug in FirstConsonant::matches_def?
  * 5. Bonus: can you find a bug with security ramifications in main()?
- * 6. Come up with a list of unit tests for specializations of Test. Think of
+ * 6. What are the pros and cons of modeling the plugin tests with inheritance?
+ *    Can you think of any alternative approaches? what are their pros and
+      cons?
+ * 7. Come up with a list of unit tests for specializations of Test. Think of
  *    ones that would catch the bugs you've found, as well as others that might
  *    be useful. You don't have to code the tests, just describe them.
 */
